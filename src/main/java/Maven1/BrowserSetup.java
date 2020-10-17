@@ -41,6 +41,7 @@ public class BrowserSetup extends Utils
                                 e.printStackTrace();
                             }
                         }
+                    //adding IE browser caps
                     else if(browser.equalsIgnoreCase("IE"))
                         {
                             DesiredCapabilities caps = DesiredCapabilities.internetExplorer();
