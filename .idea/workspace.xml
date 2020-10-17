@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b704443a-f736-42d5-b704-5a8af53cf919" name="Default" comment="" />
+    <list default="true" id="b704443a-f736-42d5-b704-5a8af53cf919" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maven1/PageObjects/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Maven1/BrowserSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Maven1/BrowserSetup.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
