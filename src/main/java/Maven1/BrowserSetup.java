@@ -29,6 +29,7 @@ public class BrowserSetup extends Utils
             {
                 System.out.println("Running in SauceLab.......... with browser "+browser);
 
+                //adding caps for chrome
                     if(browser.equalsIgnoreCase("Chrome"))
                         {
                             DesiredCapabilities caps = DesiredCapabilities.chrome();
